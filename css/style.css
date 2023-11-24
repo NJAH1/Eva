@@ -142,19 +142,19 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #fh5co-header .nav li.active a {
-  color: #856165;
+  color: #52d3aa;
   background: transparent;
   border-bottom: 2px solid #52d3aa;
 }
 @media screen and (max-width: 992px) {
   #fh5co-header .nav li.active a {
-    color: #856165;
+    color: #52d3aa;
   }
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .nav li.active a {
     border-bottom: 2px solid transparent;
-    color: #856165;
+    color: #52d3aa;
   }
 }
 @media screen and (max-width: 992px) {
